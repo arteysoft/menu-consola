@@ -1,0 +1,1 @@
+/opt/gradle-6.8.3/bin/gradle --console verbose installDist

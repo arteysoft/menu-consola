@@ -1,1 +1,0 @@
-java -jar build\libs\ejemplo.jar edu.it.App

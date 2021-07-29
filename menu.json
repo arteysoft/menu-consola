@@ -1,0 +1,22 @@
+{
+	"titulo": "Bienvenido - Ingrese una opcion",
+	"opciones": [{
+		"nroOpcion": 1,
+		"descripcion": "Prueba",
+		"continuar": true,
+		"claseInstanciar": "edu.it.service.Prueba"
+	}, {
+		"nroOpcion": 2,
+		"descripcion": "Saludar a los amigos",
+		"continuar": true,
+		"claseInstanciar": "edu.educacionit.servicios.Saludar"
+	}, {
+		"nroOpcion": 3,
+		"descripcion": "Salir",
+		"continuar": false,
+		"claseInstanciar": "N/A"
+	}],
+	"configuracion": {
+		"totalIntentos": 4
+	}
+}
